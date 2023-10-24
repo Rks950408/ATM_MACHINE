@@ -1,0 +1,28 @@
+package ATM_MACHINE;
+import java.util.*;
+public class ATM{
+ float Balance;
+ int PIN=2674;
+ public void checkpin() {
+	 System.out.println("Enter your pin: ");
+	 Scanner sc=new Scanner(System.in);
+	 int enteredpin=sc.nextInt();
+	 if(enteredpin==PIN) {
+		 menu();
+	 }
+	 else {
+		 System.out.println("Enter a valid PIN : ");
+		 
+	 } 
+ }
+   
+ 
+    public void menu() {
+    	
+    }
+}
+public class ATM_MACHINE{
+ public static void main(String[]args) {
+	 
+ }
+}

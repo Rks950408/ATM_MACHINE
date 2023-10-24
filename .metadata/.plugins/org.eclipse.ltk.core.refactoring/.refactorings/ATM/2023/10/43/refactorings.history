@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ATM_MACHINE.ATM&apos; to &apos;ATM_MACHINE&apos;&#x0D;&#x0A;- Original project: &apos;ATM&apos;&#x0D;&#x0A;- Original element: &apos;ATM_MACHINE.ATM&apos;&#x0D;&#x0A;- Renamed element: &apos;ATM_MACHINE.ATM_MACHINE&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ATM&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;ATM_MACHINE{ATM.java[ATM" matchStrategy="1" name="ATM_MACHINE" qualified="false" references="true" similarDeclarations="false" stamp="1698171173099" textual="false" version="1.0"/>
+</session>
